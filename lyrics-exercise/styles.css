@@ -1,0 +1,32 @@
+body{
+	margin-top:5em;
+	margin-bottom: 5em;
+	text-align: center;
+	column-width:20em;
+	columns:1;
+	font-family:helvetica neue;
+	color:#e7e7e2;
+	font-size: 22px;
+	line-height: 38px;
+	background-color:black;
+}
+h1{
+font-size: 80px;
+color: black;
+stroke-width: 2px;
+stroke-color:gold;
+text-shadow: 3pt;
+
+}
+h2{
+	margin-bottom: 3em;
+
+}
+.hook{
+	margin-top:2em;
+	margin-bottom:2em;
+	font-weight: bold;
+	color:gold;
+}
+.verse{
+}
