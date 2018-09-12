@@ -1,0 +1,46 @@
+body{
+	margin-top:3em;
+	margin-bottom: 5em;
+	text-align: center;
+	column-width:20em;
+	columns:1;
+	font-family:"nimbus-sans";
+	color:#e7e7e2;
+	font-size: 22px;
+	line-height: 38px;
+	background-color:black;
+}
+h1{
+font-family: "abolition";
+font-size: 180px;
+color: black;
+stroke-width: 3px;
+stroke-color:gold;
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 3px
+
+}
+h2{
+	font-family: "nimbus-sans-extended";
+	font-size: 45px;
+	text-transform: uppercase;
+	line-height: 1em;
+}
+footer{
+	font-size:14px
+	font-style:italic;
+	font-family: "nimbus-sans-extended";
+	text-transform:uppercase;
+	font-weight:bold;
+	line-height:1.5em;
+}
+.hook{
+	margin-top:2em;
+	margin-bottom:2em;
+	font-weight: bold;
+	font-size: 26px;
+	color: #a291c4;
+}
+.verse{
+}
