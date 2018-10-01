@@ -1,0 +1,205 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+
+.intro{
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 480px;
+	background-image: url(img/leaves.jpg);
+	background-position: cover;
+	margin: 0;
+}
+.intro h1{
+	margin: 0;
+	text-align: center;
+	color: white;
+	position: relative;
+	top: 43%;
+	transform: translateY(-50%);
+	font-size: 80px;
+}
+
+.intro h2{
+	color: white;
+	position: relative;
+	top: 35%;
+	transform: translateY(-50%);
+	text-align: center;
+	font-size: 31px;
+	letter-spacing: -0.5px;
+}
+
+.really{
+	font-style: italic;
+}
+
+.section1{
+	margin: 0;
+	position: relative;
+	display: block;
+	width:100%;
+	height: 710px;
+	background-color: #fccd5b;
+	color: #252b6b;
+}
+.section1 h1{
+	margin: 0;
+	text-align: center;
+	position: relative;
+	top:9%;
+	font-size: 40px;
+	transform: translateY(-50%);
+}
+.section1p {
+
+	width: 960px;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 82px;
+	font-size: 18px;
+	line-height: 25px;
+
+}
+
+.section1 p{
+	margin-top: 0;
+}
+
+.image{
+	float: right;
+	width: 400px;
+	height: 300px;
+
+	margin-left: 30px;
+	margin-bottom: 20px;
+	background-image: url(geometric.jpg);
+	background-position: center;
+	background-size: contain;
+
+}
+
+.section2{
+	border: 1px solid; /*when I erase this border there is an unknown spacing in between section1 and section2*/
+	height: 690px;
+	width: 100%;
+	background-color:#252b6b;
+	color:white;  	
+}
+
+.section2 h1{
+	text-align: center;
+	position: relative;
+	top: 6%;
+	transform: translateY(-50%);
+	font-size: 40px;
+}
+
+.wrapper{
+	width: 962px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 55px;
+}
+
+.left{
+	width: 478px;
+	height: 500px;
+	float: left;
+	display: inline-block;
+}
+
+.right{
+	width: 478px;
+	height: 500px;
+	display: inline-block;
+}
+.box{
+
+	width: 478px;
+	height: 150px;
+	margin-bottom: 23px;
+}
+.box img{
+	width: 200px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 10px;
+	float: left;
+}
+
+.box h4{
+	display: inline-block;
+	margin-top: 6px;
+	margin-bottom: 0;
+	font-size: 21px;
+}
+
+.box p{
+	display: inline-block;
+	width: 250px;
+	margin-top: 10px;
+	font-size: 20px;
+	letter-spacing: -0.6px;
+}
+.box h4{
+	display: inline-block;
+	margin-top: 6px;
+	margin-bottom: 0;
+	font-size: 21px;
+}
+
+.right img{
+	margin-right: 15px;
+}
+
+.section3{
+	border: 1px solid black;
+	width: 100%;
+	height: 395px;
+	background-color:#ff4e00;
+}
+
+.section3 h1{
+	text-align: center;
+	position: relative;
+	top: 10%;
+	transform: translateY(-50%);
+	font-size: 40px;
+	color: white;
+}
+
+.section3 p{
+	width: 720px;
+	top: 7%;
+	position: relative;
+	text-align: center;
+	font-size: 27px;
+	letter-spacing: -0.3px;
+	line-height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+
+.section4{
+	border: 1px solid black;
+	width: 100%;
+	height: 100px;
+	background-color:#121543;
+	margin: 0;
+}
+
+.section4 p{
+	margin-top: 45px;
+	margin-left: 90px;
+	font-weight: bold;
+	font-size: 17px;
+	color:white;
