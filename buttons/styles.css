@@ -1,0 +1,491 @@
+a#btn_apple {
+	font-size:60px;
+	background-color: #262626;
+	color:white;
+	opacity:.8;
+	padding: 20px;
+	width:60px;
+	height:60px;
+	border-radius: 50%;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	margin-top: 75px;
+	line-height: 0px;
+}
+
+a#btn_apple:hover{
+	background-color:black;
+	opacity:1;
+}
+
+
+a#btn_coke img {
+	max-width:100px;
+	display: inline-block;
+	margin:2.5px;
+}
+
+a#btn_coke {
+	width:105px;
+	height:105px;
+	background-color:white;
+	display:inline-block;
+	border-radius:50%;
+	margin-top:60px;
+}
+
+a#btn_coke:hover {
+	border: 4px solid red;
+;
+}
+
+a#btn_harley img{
+	max-width:120px;
+	margin-top:35px;
+	display:inline-block;
+	padding:15px;
+}
+
+a#btn_harley{
+	margin-top:40px;
+	display:inline-block;
+	background-color:none;
+	border-radius: 30%;
+}
+
+a#btn_harley:hover {
+	opacity:.76;
+}
+
+
+a#btn_lyft img {
+	max-width: 70px;
+	display: inline-block;
+
+}
+
+a#btn_lyft {
+	height: 60px;
+	width: 90px;
+	display: inline-block;
+	margin-top: 90px;
+	padding:20px;
+	border-radius:10%;
+	background-color:none;
+
+}
+
+}
+a#btn_lyft:hover {
+	background-color:#1a1a1a;
+}
+
+
+a#btn_pottermore {
+	font-family: "Permanent Marker";
+	text-decoration:none;
+	padding:10px 15px 10px 15px;
+	font-size:25px;
+	color:white;
+	background-color: #961414;
+	display: inline-block;
+	margin-top: 80px;
+	border-radius: 10px;
+}
+
+a#btn_pottermore:hover {
+	background: radial-gradient(ellipse at center, #961414 0%,#961414 20%,#720202 46%,#510000 100%);
+
+}
+
+a#btn_npr img {
+	max-width: 150px;
+	vertical-align: middle;
+	display: inline;
+	padding-top:15px;
+	margin-top:85px;
+}
+
+a#btn_npr img:hover {
+	opacity: .5;
+}
+
+a#btn_newy img {
+	max-width: 150px;
+	vertical-align: middle;
+	display: inline;
+	padding-top: 15px;
+}
+
+a#btn_newy {
+	width: 200px;
+	height: 85px;
+	display: inline-block;
+	margin-top:80px;
+	border-radius: 15px;
+}
+
+a#btn_newy:hover {
+	background-color: #f2f2f2;
+}
+a#btn_samsung img {
+	max-width: 180px;
+	display: inline-block;
+}
+
+
+a#btn_samsung {
+	padding:10px;
+	border-radius: 50%;
+	margin-top: 70px;
+	display: inline-block;
+	width: 150px;
+	height: 100px;
+}
+
+a#btn_samsung:hover {
+	transform:rotate(-10deg);
+}
+
+a#btn_ibm img {
+	max-width:100px;
+	display: inline-block;
+	padding:15px;
+	padding-bottom:10px;
+
+}
+
+a#btn_ibm {
+	margin-top:70px;
+	display: inline-block;
+}
+
+a#btn_ibm:hover {
+	border: 2px solid #2b6fb5;
+
+}
+
+a#btn_ig {
+	font-size: 50px;
+	color: white;
+	background: linear-gradient(135deg, #6001bf 0%,#ed2d86 39%,#e2990f 77%,#fdff89 100%);
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+	line-height: 0px;
+	display: block;
+	padding:10px;
+	margin:auto;
+	margin-top:80px;
+    
+}
+
+a#btn_ig:hover {
+	box-shadow:0px 0px 28px 0px rgba(102, 0, 192, 0.82);
+}
+
+a#btn_fb {
+	font-size: 20px;
+	line-height: 0px;
+	display: inline-block;
+	margin-top: 70px;
+	font-family: "Work Sans";
+	text-transform: lowercase;
+	font-weight: 600;
+	color: white;
+	text-decoration:none;
+	background-color: #385e98;
+	padding: 20px;
+	margin-top:90px;
+	border-radius:5px;
+}
+
+a#btn_fb:hover {
+	color: #385e98;
+	background-color:white;
+	border:2px solid #385e98;
+}
+
+a#btn_oldnavy {
+	font-family:"Roboto Condensed";
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 18px;
+	color: #243366;
+	display: inline-block;
+	border:2px solid #243366;
+	margin-top: 70px;
+	border-radius: 50%;
+}
+
+a#btn_oldnavy:hover {
+	color:white;
+	background-color: #243366;
+	transform:rotate(-10deg);
+}
+
+
+a#btn_dime {
+	font-style:"roboto Condensed";
+	display:inline-block;
+	font-size: 20px;
+	text-align:center;
+	color: white;
+	background-color: #0b0f60;
+	text-decoration: none;
+	width: 80px;
+	padding: 27px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 80px;
+	margin-top: 80px;
+	 }
+
+a#btn_dime:hover {
+	background-color:#cc0044;
+}
+
+a#btn_nerf {
+	font-family: "Archivo Black";
+	color:yellow;
+	font-style:italic;
+	text-transform:uppercase;
+	font-weight: 900;
+	font-size: 30px;
+	letter-spacing:3px;
+	display:inline-block;
+	text-decoration: none;
+	padding: 12px;
+	background: red;
+	margin-top: 80px;
+	border-radius:7px;
+
+}
+
+a#btn_nerf:hover {
+	-webkit-text-stroke:1px black;
+	text-shadow: -2px -2px 2px rgba(150, 150, 150, 1);
+	box-shadow:  -2px -2px 2px 0px rgba(150, 150, 150, 0.75);
+	color: white;
+}
+
+a#btn_color {
+	font-style:"Open Sans",sans-serif;
+	display:inline-block;
+	color: #ff14ba;
+	text-decoration:none;
+	font-size: 20px;
+	border: 3px solid #ff14ba;
+	padding: 8px;
+	padding-left:10px;
+	padding-right:10px;
+	text-transform: uppercase;
+	margin-top: 80px;
+	font-weight: bold;
+	margin-top:100px;
+}
+
+a#btn_color:hover{
+   background-color: #ff14ba;
+   color:white;
+}
+
+
+
+a#btn_moo img {
+	width: 120px;
+	display: inline-block;
+	padding-top: 15px;
+	margin-top:6px;
+	padding-bottom: 10px;
+
+}
+
+a#btn_moo{
+	display:inline-block;
+	margin-top:90px;
+}
+
+a#btn_moo:hover {
+	opacity:.5;
+
+}
+
+a#btn_nike {
+	display: inline-block;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 10px;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white;
+    background-color: rgb(254, 75, 12);
+    padding: 20px;
+    margin-top: 90px;
+    border-radius:5px;
+
+}
+
+a#btn_nike:hover {
+	background-color: #fb865d;
+	font-style: italic;
+}
+
+a#btn_tesla img {
+	max-width: 140px;
+	vertical-align: middle;
+	display: inline;
+	padding-top: 15px;
+	padding-bottom: -10px;
+}
+
+a#btn_tesla {
+	display: inline-block;
+	margin-top:80px;
+}
+
+a#btn_tesla:hover {
+	background-color: white;
+	border-bottom: 2px solid black;
+
+}
+
+a#btn_army {
+	color:white;
+	font-family: "roboto mono";
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding:8px;
+	background-color: black;
+	border: 4px solid #ffcc00;
+	border-radius: 5px;
+	display:inline-block;
+	margin-top:90px;
+}
+
+a#btn_army:hover {
+	color:black;
+	background-color:#ffcc00;
+
+}
+
+
+a#btn_allen {
+	font-size: 30px;
+	font-family: "EB Garamond";
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	margin-top: 100px;
+	letter-spacing: -1px;
+	padding: 10px;
+	
+}
+
+a#btn_allen:hover {
+text-shadow: -2px -2px 2px rgba(150, 150, 150, 0.8);
+;
+}
+
+a#btn_mbg {
+	font-family:"Work Sans";
+	font-weight:bolder;
+	font-size: 10px;
+	text-transform: uppercase;
+	font-variant:small-caps;
+	text-decoration: none;
+	letter-spacing:4px;
+	padding: 10px;
+	position:center;
+	line-height:1.5;
+	color: white;
+	background-color:darkgreen;
+	margin:90px 50px;
+	display: inline-block;
+}
+
+a#btn_mbg:hover {
+	color:darkgreen;
+	background-color:white;
+	border:1px solid darkgreen;
+
+}
+
+a#btn_craigslist {
+	display:inline-block;
+	margin-top:100px;
+	font-size: 30px;
+	font-family: "EB Garamond";
+	color: blue;
+	text-decoration:none;
+
+}
+
+a#btn_craigslist:hover {
+	color:#6a1e59;
+	text-decoration:underline;
+
+}
+
+a#btn_foreflight {
+	font-family: "Open Sans";
+	font-weight: 600;
+	display:inline-block;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	background-color: #0f2d44;
+	padding: 20px;
+	margin-top:90px;
+	border-radius:30px;
+	line-height: 0px;
+}
+
+a#btn_foreflight:hover {
+	transform:rotate(5deg);
+	background-color:#274f6e;
+}
+
+a#btn_kors {
+	font-family: "Open Sans";
+	font-weight: 700;
+	display:inline-block;
+	color:white;
+	background-color:#2b2f2f;
+	font-size: 25px;
+	text-decoration:none;
+	text-transform: uppercase;
+	margin-top: 90px;
+	padding:15px;
+	border-radius:7px;
+}
+
+a#btn_kors:hover {
+	background: -webkit-linear-gradient(top, rgba(40,40,40,1) 1%,rgba(99,99,99,1) 38%,rgba(76,76,76,1) 56%,rgba(35,35,35,1) 100%); 
+	opacity:.8;
+}
+
+a#btn_sardella {
+	font:"Roboto Condensed";
+	color: #00fffc;
+	text-transform:uppercase;
+    -webkit-text-stroke:2px blue;
+    text-decoration:none;
+	display: inline-block;
+	font-size:30px;
+	font-weight:bolder;
+	padding:7px;
+	margin:auto;
+	margin-top:90px;
+}
+
+a#btn_sardella:hover {
+	background-color:white;
+	color: blue;
+
+}
