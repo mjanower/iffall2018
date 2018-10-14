@@ -1,0 +1,108 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin-right: 30px;
+	margin: 0;
+	color: #1e1e1e;
+}
+
+header{
+	height: auto;
+	width:100%;
+	background-color: #f8b627;
+	color: white;
+	margin: 0px;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	margin:auto;
+}
+h1{
+	font-size: 35px;
+	padding-top: 40px;
+	margin-top: 0;
+	margin-left: 30px;
+	margin-right:20px;
+	color:white;
+	font-weight:bold;
+}
+
+h2{
+	color:white;
+	font-size: 16px;
+	margin-left:30px;
+	text-transform:uppercase;
+	padding-bottom: 30px;
+}
+
+div.content {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+section.ingredients ul li{
+	margin-bottom: 3px;
+}
+
+section.ingredients ul{
+	margin-bottom: 25px;
+	columns: 2;
+}
+
+li {
+	margin-left: -5px;
+}
+
+section h1 {
+	color: #f8b627;
+	font-size: 24px;
+	font-weight:bold;
+}
+
+section.instructions li {
+	margin-bottom: 20px;
+
+}
+
+section.instructions {
+	padding-bottom: 15px;
+}
+
+footer {
+	height: 80px;
+	background-color: #f8b627;
+}
+footer div{
+	padding-top: 20px;
+	margin: 20px 30px;
+	color:white;
+	text-transform:uppercase
+	font-weight:bolder;
+}
+footer div a{
+	color: #411f6a;
+}
+footer div a nth-of-type(2){
+	text-align: right;
+	margin-right:30px;
+}
+
+footer div a:hover{
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
